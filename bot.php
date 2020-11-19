@@ -602,8 +602,8 @@ if(!is_null($events)){
                                     array(
                                         new CarouselColumnTemplateBuilder(
                                             'EP.01',
-                                            'เริ่มต้นกับ Power BI',
-                                            'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c1.png',
+                                            'เริ่มต้น Shopping',
+                                            'https://www.shutterstock.com/image-photo/workspace-home-fingers-on-laptop-keyboard-282133748',
                                             $actionBuilder1
                                         ),
                                         new CarouselColumnTemplateBuilder(
