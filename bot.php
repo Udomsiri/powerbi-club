@@ -603,7 +603,7 @@ if(!is_null($events)){
                                         new CarouselColumnTemplateBuilder(
                                             'EP.01',
                                             'เริ่มต้น Shopping',
-                                            'https://www.shutterstock.com/image-photo/workspace-home-fingers-on-laptop-keyboard-282133748',
+                                            'https://as1.ftcdn.net/jpg/02/71/77/56/500_F_271775672_yo8ZgraN2IHGbfqP2k0PsLjwvmatUNUJ.jpg',
                                             $actionBuilder1
                                         ),
                                         new CarouselColumnTemplateBuilder(
